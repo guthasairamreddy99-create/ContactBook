@@ -12,4 +12,4 @@ This project is developed using Python.
 - Text File Storage
 
 ## Author
-Sai
+Sai Ram Reddy
